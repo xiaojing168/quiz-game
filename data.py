@@ -1,0 +1,12 @@
+question_data = [
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"The%20programming%20language%20%22Python%22%20is%20based%20off%20a%20modified%20version%20of%20%22JavaScript%22.","correct_answer":"False","incorrect_answers":["True"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"The%20logo%20for%20Snapchat%20is%20a%20Bell.","correct_answer":"False","incorrect_answers":["True"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"RAM%20stands%20for%20Random%20Access%20Memory.","correct_answer":"True","incorrect_answers":["False"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"Ada%20Lovelace%20is%20often%20considered%20the%20first%20computer%20programmer.","correct_answer":"True","incorrect_answers":["False"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"%22HTML%22%20stands%20for%20Hypertext%20Markup%20Language.","correct_answer":"True","incorrect_answers":["False"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"In%20most%20programming%20languages%2C%20the%20operator%20%2B%2B%20is%20equivalent%20to%20the%20statement%20%22%2B%3D%201%22.","correct_answer":"True","incorrect_answers":["False"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"Time%20on%20Computers%20is%20measured%20via%20the%20EPOX%20System.","correct_answer":"False","incorrect_answers":["True"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"The%20NVidia%20GTX%201080%20gets%20its%20name%20because%20it%20can%20only%20render%20at%20a%201920x1080%20screen%20resolution.","correct_answer":"False","incorrect_answers":["True"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"Linux%20was%20first%20created%20as%20an%20alternative%20to%20Windows%20XP.","correct_answer":"False","incorrect_answers":["True"]},
+    {"category":"Science%3A%20Computers","type":"boolean","difficulty":"easy","question":"The%20Python%20programming%20language%20gets%20its%20name%20from%20the%20British%20comedy%20group%20%22Monty%20Python.%22","correct_answer":"True","incorrect_answers":["False"]}
+                            ]
